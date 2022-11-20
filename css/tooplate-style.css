@@ -390,10 +390,12 @@ b, strong {
 .owl-carousel .owl-nav .owl-prev:before {
   content: '\e833';
   left: -45px;
+  top: 0px
 }
 .owl-carousel .owl-nav .owl-next:before {
   content: '\e836';
   right: -45px;
+  top: 0px
 }
 
 .owl-theme .owl-nav [class*=owl-] {
