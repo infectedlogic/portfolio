@@ -14,9 +14,13 @@
     // PROJECT CAROUSEL
     $('.owl-carousel').owlCarousel({
     	items: 1,
-	    loop:true,
-	    margin:10,
-	    nav:true
+	    loop: true,
+	    margin: 10,
+	    nav: true,
+	    autoplay: true,
+	    autoplayTimeout: 3000,
+	    autoplayHoverPause: true,
+	    smartSpeed: 1000
 	});
 
     // SMOOTHSCROLL
