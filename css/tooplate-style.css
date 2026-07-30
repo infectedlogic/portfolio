@@ -473,6 +473,12 @@ b, strong {
   color: #ffc200;
 }
 
+.contact-profile-img {
+  max-width: 100px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
